@@ -1,0 +1,16 @@
+# Bash memo for (if statement and test command)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+![N|Bash](https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg)
+
+1. [Are the strings equal?](1.sh)
+2. [Use > as a conditional expression](2.sh)
+3. [Use < in a conditional expression](3.sh)
+4. [Use >= in a conditional expression](4.sh)
+5. [Use <= in the conditional expression](5.sh)
+6. [Check the existence of a directory](6.sh)
+7. [Check the existence of a file](7.sh)
+8. [Determine whether the command executed in the shell script ended normally](8.sh)
+9. [Use the NOT condition](9.sh)
+10. [Using AND and OR conditions](10.sh)
+11. [Using AND and OR conditions](11.sh)
